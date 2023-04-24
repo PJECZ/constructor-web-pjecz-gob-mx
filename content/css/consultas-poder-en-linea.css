@@ -1,0 +1,37 @@
+
+/* IMAGEN FLOTANTE   */
+#close-button {
+    border: none;
+    background-color: rgb(232, 1, 1) !important;
+    border-radius: 50%;
+    position: absolute;
+    color: white;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    height: 45px;
+    right: 25px;
+    top: 10px; 
+    width: 45px;
+    z-index: 1000;
+}
+
+.bgtransparent{
+  background-color: rgba(255, 255, 255, 0);
+  border:solid 0px rgba(255, 255, 255, 0);
+}
+.modal-nopadding{
+  padding: 0px !important;
+  align-items: center;
+}
+.imgaviso{
+  padding: 0px;
+  margin: 0px;
+}
+
+/* Media query para pantallas más pequeñas */
+@media screen and (max-width: 768px) {
+  #close-button {
+    right: 10px !important;
+  }
+}

@@ -5,6 +5,8 @@ URL: consultas/poder-en-linea/
 Save_As: consultas/poder-en-linea/index.html
 Date: 2021-05-18 11:55
 Modified: 2022-03-05 21:06
+JavaScripts: consultas-poder-en-linea.js
+Stylesheets: consultas-poder-en-linea.css
 
 
 <nav aria-label="breadcrumb">
@@ -13,6 +15,19 @@ Modified: 2022-03-05 21:06
 <li class="breadcrumb-item active" aria-current="page">Poder en Línea</li>
 </ol>
 </nav>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content bgtransparent">
+      <div class="modal-body modal-nopadding bgtransparent text-center">
+        <button type="button" id="close-button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <img class="img-fluid imgaviso" src="poder-en-linea-01-aviso-Importante.jpg">
+      </div>
+    </div>
+  </div>
+</div>
 
 El Poder Judicial del Estado de Coahuila de Zaragoza pone al servico de la ciudadanía la [Plataforma Poder en Línea](https://poderenlinea.pjecz.gob.mx/), la cual integra en un sólo punto las siguientes herramientas de justicia digital:
 
@@ -60,11 +75,14 @@ Para accesar use la combinación de usuario y contraseña de tu cuenta ya regist
     </div>
 </div>
 
-Para solicitar el registro acudir al módulo más cercano y llevar los siguientes documentos:
+Para registrase y comenzar a utilizar nuestros servicios necesita proporcionar algunos datos personales. La información que proporcione será tratada de forma confidecnial y solo será utilizada para fines de verificación y autenticación, el registro se realizara en Plataforma Poder en Línea
 
-- Identificación oficial con fotografía.
-- Copia de la cédula profesional.
-- Copia de tu CURP.
-- Y un teléfono móvil con un número celular para recibir NIPs dinámicos mediante mensaje de texto.
+En la plataforma subirá lo siguiente:
+
+- Un documento con su Identificación oficial con fotografía vigente (Credencial de elector por ambos lados, Licencia de conducir por ambos lados o Pasaporte).
+- Su Constancia de Clave Única de Registro de Población (CURP) expedida por la Secretaría de Gobernación.
+- Una grabación con audio y video (hecho con un teléfono celular, webcam o videograbadora) donde registre con claridad una prueba de vida.
+- Su número celular que será vinculado a su cuenta.
+- De manera opcional un documento con su Cédula Profesional por ambos lados.
 
 Si tienes alguna duda puedes contactarnos en nuestra línea de atención de [WhatsApp 844 506 0075](https://wa.me/528445060075) y con gusto te atenderemos.
