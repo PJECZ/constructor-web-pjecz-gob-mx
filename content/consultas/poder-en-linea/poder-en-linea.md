@@ -14,8 +14,24 @@ Modified: 2023-04-24 12:40
 </ol>
 </nav>
 
-<img class="img-fluid imgaviso" src="poder-en-linea-04-24-aviso-importante.png">
-
+<div class="row">
+    <div class="col-md-6 col-xs-12 mt-2">
+        <img class="img-fluid" style="border-radius:5px;" src="poder-en-linea-01-aviso-Importante.png">
+    </div>    
+    <div class="col-md-6 col-xs-12 mt-2">
+        <img class="img-fluid" style="border-radius:5px;" src="poder-en-linea-02-descarga-app-token-2.png">
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6"></div>    
+    <div class="col-md-3 mt-2">
+        <a href="https://play.google.com/store/apps/details?id=com.poderlineatokenapp&pli=1"><img class="img-fluid" src="google-play.png"></a>
+    </div>
+    <div class="col-md-3 mt-2">
+        <a href="https://apps.apple.com/mx/app/app-token/id1669177678"><img class="img-fluid" src="app-store.png"></a>
+    </div>
+</div>
+<br>
 El Poder Judicial del Estado de Coahuila de Zaragoza pone al servico de la ciudadanía la [Plataforma Poder en Línea](https://poderenlinea.pjecz.gob.mx/), la cual integra en un sólo punto las siguientes herramientas de justicia digital:
 
 - El **Sistema de Citas** en Línea para agendar su trabajo en los órganos jurisdiccionales.
