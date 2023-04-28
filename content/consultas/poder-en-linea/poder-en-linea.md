@@ -23,13 +23,24 @@ Modified: 2023-04-24 12:40
     </div>
 </div>
 <div class="row">
-    <div class="col-md-6"></div>    
-    <div class="col-md-3 mt-2">
+    <div class="col-md-2"></div>    
+    <div class="col-md-4 mt-2">
         <a href="https://play.google.com/store/apps/details?id=com.poderlineatokenapp&pli=1"><img class="img-fluid" src="google-play.png"></a>
     </div>
-    <div class="col-md-3 mt-2">
+    <div class="col-md-4 mt-2">
         <a href="https://apps.apple.com/mx/app/app-token/id1669177678"><img class="img-fluid" src="app-store.png"></a>
     </div>
+    <div class="col-md-2"></div>
+</div>
+<div class="row">
+    <div class="col-md-2"></div>    
+    <div class="col-md-4 mt-4 text-center">
+        <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual_descarga_configuracion_google_play.pdf" style="font-size:20px;"><b>Manual del usuario de la App para Google Play</b></a>
+    </div>
+    <div class="col-md-4 mt-4 text-center">
+        <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual_descarga_configuracion_app_store.pdf" style="font-size:20px;"><b>Manual del usuario para App Store</b></a>
+    </div>
+    <div class="col-md-2"></div>
 </div>
 <br>
 El Poder Judicial del Estado de Coahuila de Zaragoza pone al servico de la ciudadanía la [Plataforma Poder en Línea](https://poderenlinea.pjecz.gob.mx/), la cual integra en un sólo punto las siguientes herramientas de justicia digital:
@@ -45,32 +56,32 @@ Para accesar use la combinación de usuario y contraseña de tu cuenta ya regist
     <div class="row">
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="aviso-de-privacidad.html"><img class="card-img-top" src="imagen-aviso-de-privacidad.jpg"></a>
-                <div class="card-body">
+                <a href="aviso-de-privacidad.html"><img class="card-img-top" src="aviso-de-privacidad.jpg"></a>
+                <div class="card-body" style="height:130px;">
                     <a href="aviso-de-privacidad.html"><h3 class="card-title mb-0">Aviso de Privacidad</h3></a>
                 </div>
             </div>
         </div>
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="terminos-condiciones.html"><img class="card-img-top" src="imagen-terminos-condiciones.jpg"></a>
-                <div class="card-body">
+                <a href="terminos-condiciones.html"><img class="card-img-top" src="terminos-y-condiciones.jpg"></a>
+                <div class="card-body" style="height:130px;">
                     <a href="terminos-condiciones.html"><h3 class="card-title mb-0">Términos y Condiciones de Uso</h3></a>
                 </div>
             </div>
         </div>
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual%20de%20usuario%20Poder%20en%20linea.pdf" target="_blank"><img class="card-img-top" src="imagen-manual.jpg"></a>
-                <div class="card-body">
+                <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual%20de%20usuario%20Poder%20en%20linea.pdf" target="_blank"><img class="card-img-top" src="manual-de-usuario.jpg"></a>
+                <div class="card-body" style="height:130px;">
                     <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual%20de%20usuario%20Poder%20en%20linea.pdf" target="_blank"><h3 class="card-title mb-0">Manual de usuario para el abogado</h3></a>
                 </div>
             </div>
         </div>
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="https://poderenlinea.pjecz.gob.mx/" target="_blank"><img class="card-img-top" src="imagen-acceso-poder-en-linea.jpg"></a>
-                <div class="card-body">
+                <a href="https://poderenlinea.pjecz.gob.mx/" target="_blank"><img class="card-img-top" src="ingreso-plataforma-poder-en-linea.jpg"></a>
+                <div class="card-body" style="height:142px;">
                     <a href="https://poderenlinea.pjecz.gob.mx/" target="_blank"><h3 class="card-title mb-0">Ingresar a Poder en Línea</h3></a>
                 </div>
             </div>
