@@ -56,7 +56,7 @@ Para accesar use la combinación de usuario y contraseña de tu cuenta ya regist
     <div class="row">
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="aviso-de-privacidad.html"><img class="card-img-top" src="aviso-de-privacidad.jpg"></a>
+                <a href="aviso-de-privacidad.html"><img class="card-img-top" src="aviso-de-privacidad1.jpg"></a>
                 <div class="card-body" style="height:130px;">
                     <a href="aviso-de-privacidad.html"><h3 class="card-title mb-0">Aviso de Privacidad</h3></a>
                 </div>
@@ -64,7 +64,7 @@ Para accesar use la combinación de usuario y contraseña de tu cuenta ya regist
         </div>
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="terminos-condiciones.html"><img class="card-img-top" src="terminos-y-condiciones.jpg"></a>
+                <a href="terminos-condiciones.html"><img class="card-img-top" src="terminos-y-condiciones1.jpg"></a>
                 <div class="card-body" style="height:130px;">
                     <a href="terminos-condiciones.html"><h3 class="card-title mb-0">Términos y Condiciones de Uso</h3></a>
                 </div>
@@ -72,7 +72,7 @@ Para accesar use la combinación de usuario y contraseña de tu cuenta ya regist
         </div>
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual%20de%20usuario%20Poder%20en%20linea.pdf" target="_blank"><img class="card-img-top" src="manual-de-usuario.jpg"></a>
+                <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual%20de%20usuario%20Poder%20en%20linea.pdf" target="_blank"><img class="card-img-top" src="manual-de-usuario1.jpg"></a>
                 <div class="card-body" style="height:130px;">
                     <a href="https://storage.googleapis.com/pjecz-gob-mx/Consultas/Poder%20en%20Linea/Manual%20de%20usuario%20Poder%20en%20linea.pdf" target="_blank"><h3 class="card-title mb-0">Manual de usuario para el abogado</h3></a>
                 </div>
@@ -80,8 +80,8 @@ Para accesar use la combinación de usuario y contraseña de tu cuenta ya regist
         </div>
         <div class="col-md-3">
             <div class="card destacados-card mb-2">
-                <a href="https://poderenlinea.pjecz.gob.mx/" target="_blank"><img class="card-img-top" src="ingreso-plataforma-poder-en-linea.jpg"></a>
-                <div class="card-body" style="height:142px;">
+                <a href="https://poderenlinea.pjecz.gob.mx/" target="_blank"><img class="card-img-top" src="ingreso-plataforma-poder-en-linea1.jpg"></a>
+                <div class="card-body" style="height:130px;">
                     <a href="https://poderenlinea.pjecz.gob.mx/" target="_blank"><h3 class="card-title mb-0">Ingresar a Poder en Línea</h3></a>
                 </div>
             </div>
