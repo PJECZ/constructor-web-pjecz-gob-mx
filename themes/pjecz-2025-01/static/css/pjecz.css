@@ -112,7 +112,7 @@ a.navegacion_icon:link,
 a.navegacion_icon:visited      { color: #c6cabd; }
 a.navegacion_icon:active,
 a.navegacion_icon:hover        { color: #8a8f80; }
-#navegacion_menu               { background-color: #486238; border-bottom: 6px solid #dbb993; }
+#navegacion_menu               { background-color: #486238; border-bottom: 6px solid #b4b49e; }
 .breadcrumb                    { background-color: #ffffff; }
 
 #carrusel                      { background-color: #ffffff; }
@@ -120,11 +120,11 @@ a.navegacion_icon:hover        { color: #8a8f80; }
 #accesos                       { background-color: #ffffff; }
 .accesos-card                  { border:none; }
 
-#novedades                     { background-color: #c6c7c8; }
+#novedades                     { background-color: #c6cabd; }
 #novedades p                   { color: gray; }
 
 #recomendaciones               { background-color: #ffffff; }
-#sitios_interes                { background-color: #c6c7c8; }
+#sitios_interes                { background-color: #b4b49e; }
 #transmisiones_sesiones        { background-color: #ffffff; }
 
 #indices                       { background-color: #ffffff; }
@@ -136,8 +136,9 @@ a.navegacion_icon:hover        { color: #8a8f80; }
 #botones a.btn-primary:hover   { background-color: #646566; border-color: #646566; color: #ffffff; }
 #botones .icono                { color: #b4b49e; }
 
-footer .footer-dark            { color: #ffffff; background-color: #646566; }
-footer .card                   { color: #ffffff; background-color: #646566; }
+footer .footer-dark            { color: #ffffff; background-color: #486238; }
+footer .card                   { color: #ffffff; background-color: #486238; border: none; }
+footer .card-header            { background-color: #486238; border: none; }
 footer h2                      { color: #c6cabd; }
 footer h3,
 footer h4,
