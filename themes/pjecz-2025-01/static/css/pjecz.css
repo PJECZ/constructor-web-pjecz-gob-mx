@@ -101,7 +101,7 @@ h5                             { color: #486238; }
 h6                             { color: #486238; }
 a,
 a:link,
-a:visited                      { color: #46576b; }
+a:visited                      { color: #486238; }
 a:active,
 a:hover                        { color: #646566; }
 
@@ -111,7 +111,7 @@ a.navegacion_icon,
 a.navegacion_icon:link,
 a.navegacion_icon:visited      { color: #c6cabd; }
 a.navegacion_icon:active,
-a.navegacion_icon:hover        { color: #8a8f80; }
+a.navegacion_icon:hover        { color: #486238; }
 #navegacion_menu               { background-color: #486238; border-bottom: 6px solid #b4b49e; }
 .breadcrumb                    { background-color: #ffffff; }
 
@@ -120,7 +120,7 @@ a.navegacion_icon:hover        { color: #8a8f80; }
 #accesos                       { background-color: #ffffff; }
 .accesos-card                  { border:none; }
 
-#novedades                     { background-color: #c6cabd; }
+#novedades                     { background-color: #c5cabd; }
 #novedades p                   { color: gray; }
 
 #recomendaciones               { background-color: #ffffff; }
