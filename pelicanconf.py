@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # Tema
-THEME = "themes/pjecz-2020-10"
+THEME = "themes/pjecz-2025-01"
 
 # Para desarrollo
 SITEURL = "http://localhost:8000"
