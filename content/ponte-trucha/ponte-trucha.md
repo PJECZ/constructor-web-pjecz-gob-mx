@@ -7,7 +7,10 @@ Date: 2021-06-11 11:52:00
 Modified: 2021-06-11 11:52:00
 
 
+
+
 <a href="https://player.vimeo.com/video/583982684" target="_blank"><img class="img-fluid" src="imagen-pagare-escribiendo.jpg"></a>
+
 <div class="row">
     <div class="col-md-6">
         <img class="img-fluid" src="imagen-pagare-generico.jpg">
@@ -18,14 +21,18 @@ Modified: 2021-06-11 11:52:00
         <p>Este compromiso formal indica tres aspectos. El primero, quién paga a quién. El segundo, qué cantidad de dinero. Y, el tercero, cuando debe realizarse dicho pago.</p>
     </div>
 </div>
+
 <div class="row align-items-center" style="background-color:#88AA88">
     <div class="col-12">
         <h1 class="text-center">UN PAGARÉ NO DEBE TENER NINGÚN ESPACIO EN BLANCO</h1>
         <br>
     </div>
 </div>
+
 <h1> ELEMENTOS DEL PAGARÉ </h1>
+
 <img class="img-fluid" src="imagen-pagare-elementos.jpg">
+
 <div class="row align-items-center" style="background-color:#343742">
     <div class="col-12">
         <h1 class="text-center" style="color:#ffffff">SI CUENTA ESTOS ELEMENTOS ES UN PAGARÉ VÁLIDO</h1>
@@ -41,7 +48,7 @@ Modified: 2021-06-11 11:52:00
     </div>
 </div>
 
-## PREGUNTAS FRECUENTES
+<h1> PREGUNTAS FRECUENTES </h1>
 
 **¿Qué pasa si el pagaré no menciona la fecha de vencimiento?**
 
@@ -115,8 +122,7 @@ Sí. El pagaré es un título de crédito y como tal puede circular, puede ser t
 
 Están en su derecho de cobrarte, incluso pueden recurrir a instancias judiciales para exigirte el pago.
 
-## CONSEJOS
-
+<h1> CONSEJOS </h1>
 <div class="row align-items-center">
     <div class="col-md-6">
         <img class="img-fluid" src="imagen-pagare-no-espacios-en-blanco.png">
