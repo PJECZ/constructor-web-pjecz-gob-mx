@@ -4,3 +4,4 @@ click
 Markdown
 pelican
 pylint
+pytz
