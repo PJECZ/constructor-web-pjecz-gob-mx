@@ -1,0 +1,33 @@
+[project]
+name = "constructor-web-pjecz-gob-mx"
+version = "0.1.0"
+description = "Constructor del sistio web. Hecho con Pelican."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "archivista>=0.4.6",
+    "beautifulsoup4>=4.14.3",
+    "click>=8.3.2",
+    "markdown>=3.10.2",
+    "pelican>=4.11.0.post0",
+    "pytz>=2026.1.post1",
+]
+
+[tool.black]
+line-length = 128
+
+[tool.isort]
+line_length = 128
+profile = "black"
+
+[tool.basedpyright]
+pythonVersion = "3.14"
+typeCheckingMode = "basic"
+reportCallIssue = "hint"
+reportMissingImports = "warning"
+reportUndefinedVariable = "warning"
+exclude = ["**/tests"]
+
+[tool.ruff]
+ignore = ["F821"]
+line-length = 128
