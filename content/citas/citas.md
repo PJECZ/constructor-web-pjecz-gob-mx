@@ -30,4 +30,4 @@ Modified: 2020-06-08 08:30
 - [Infografía](infografia-del-sistema-de-citas-en-linea.jpg)
 - [Ayuda vía WhatsApp](https://wa.link/wrm9zq)
 
-<a class="btn btn-lg btn-outline-primary" href="https://citas.justiciadigital.gob.mx" role="button">Ir al Sistema de Citas</a>
+<a class="btn btn-lg btn-outline-primary" href="https://citas.saji.gob.mx/" role="button">Ir al Sistema de Citas</a>
