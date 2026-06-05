@@ -3,7 +3,7 @@ Slug: terminos-del-uso-del-sitio-web
 URL: politicas-de-uso/terminos-de-uso-del-sitio-web/
 Save_As: politicas-de-uso/terminos-de-uso-del-sitio-web/index.html
 Date: 2018-03-15 12:40
-Modified: 2018-04-16 11:00
+Modified: 2026-05-26 16:40
 JavaScripts: listados-interactivos.js
 Stylesheets: listados-interactivos.css
 
@@ -24,6 +24,7 @@ El Usuario:
 * Debe contar con un equipo que cumpla con las características mínimas necesarias para navegar en el sitio.
 * Exime al **Poder Judicial del Estado de Coahuila de Zaragoza** de toda responsabilidad por los daños que el uso del sitio le pudieran ocasionar en forma incidental o consecuente con su equipo, información, patrimonio o persona.
 * Acepta y se obliga a utilizar el sitio para fines lícitos y con apego a las disposiciones legales aplicables.
+* Las transacciones de certificados de pago serán efectuadas mediante la pasarela de **Openpay.**
 
 El **Poder Judicial del Estado de Coahuila de Zaragoza**:
 
