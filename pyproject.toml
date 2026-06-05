@@ -1,7 +1,7 @@
 [project]
 name = "constructor-web-pjecz-gob-mx"
-version = "0.1.0"
-description = "Constructor del sistio web. Hecho con Pelican."
+version = "2.2.1"
+description = "Constructor del sitio web. Hecho con Pelican."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
